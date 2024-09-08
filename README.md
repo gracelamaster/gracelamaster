@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gracelamaster
-- 👀 I’m interested in gourmet mushrooms and java development.
-- 🌱 I’m currently learning java and java script.
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in growin gourmet mushrooms at home.
+- 🌱 I’m currently learning java.
+- 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me : That tin can, tied to a string. 
 
 <!---
